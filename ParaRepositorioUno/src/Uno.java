@@ -7,4 +7,6 @@ public class Uno {
 	int propSeis;
 
 	int propQuinto;
+	
+	int propseis;
 }
